@@ -5,6 +5,7 @@ Tej Poudel
 ==========
 
 Objective
+
 Make color Game for the developer who knows RGB colors. 
 
 ========

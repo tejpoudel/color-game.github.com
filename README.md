@@ -39,4 +39,4 @@ How to Run
 
 =======
 
-Thank you.
+Thank you!
